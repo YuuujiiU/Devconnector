@@ -1,7 +1,16 @@
-# Devconnector
+# Devconnector-NETWORKING WEB APPLICATION ON AWS
 
 A Full Stack social network application. 
 For creating a developer profile plateform, share posts and get help from developers.
+
+● Developed a professional networking web application with functions including comments, authentication, and notifications.
+
+● Implemented CRUD operations of blogs with AWS Lambda functions and RESTful API and utilized MongoDB and S3 to
+store comments and profiles.
+
+● Achieved scalable communication between authentication and notification services using AWS SQS, ensuring emails are sent
+to users once comments are updated.
+
 
 Technology skills: JavaScript, HTML/CSS, Node.js, Express, React, Redux and MongoDB
 
